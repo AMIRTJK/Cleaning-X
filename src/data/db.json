@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "src/assets/todo-image-1.svg",
+      "title": "House cleaning",
+      "desc": "Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est.",
+      "isComplete": false
+    },
+    {
+      "id": 2,
+      "image": "src/assets/todo-image-2.svg",
+      "title": "Office cleaning",
+      "desc": "Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est.",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "image": "src/assets/todo-image-3.svg",
+      "title": "Industrial cleaning",
+      "desc": "Lorem ipsum dolor sit amet consecte tur adipiscing elit semper dalaracc lacus vel facilisis volutpat est.",
+      "isComplete": false
+    }
+  ]
+}
