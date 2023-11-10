@@ -6,7 +6,7 @@ import StatisticsList from "./component/StatisticsList";
 import ButtonCall from "./component/ButtonCall";
 import ListCover from "./component/ListCover";
 import ArticlesPost from "./component/ArticlesPost";
-import ModalAdd from "./component/modalAdd";
+import ModalAdd from "./component/ModalAdd";
 import ModalEdit from "./component/ModalEdit";
 
 // import "@fontsource/roboto/300.css";
